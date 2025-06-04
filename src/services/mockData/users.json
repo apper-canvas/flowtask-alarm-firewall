@@ -1,0 +1,41 @@
+[
+  {
+    "id": "user1",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@flowtask.com",
+    "avatar": "https://images.unsplash.com/photo-1494790108755-2616b612b47c?w=100&h=100&fit=crop&crop=face",
+    "preferences": {
+      "theme": "light",
+      "notifications": true,
+      "timezone": "America/New_York"
+    },
+    "createdAt": "2024-01-01T00:00:00.000Z",
+    "updatedAt": "2024-01-13T12:45:00.000Z"
+  },
+  {
+    "id": "user2",
+    "name": "Marcus Rodriguez",
+    "email": "marcus.rodriguez@flowtask.com",
+    "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "preferences": {
+      "theme": "dark",
+      "notifications": true,
+      "timezone": "America/Los_Angeles"
+    },
+    "createdAt": "2024-01-02T00:00:00.000Z",
+    "updatedAt": "2024-01-14T08:30:00.000Z"
+  },
+  {
+    "id": "user3",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@flowtask.com",
+    "avatar": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "preferences": {
+      "theme": "auto",
+      "notifications": false,
+      "timezone": "Europe/London"
+    },
+    "createdAt": "2024-01-03T00:00:00.000Z",
+    "updatedAt": "2024-01-13T16:20:00.000Z"
+  }
+]
